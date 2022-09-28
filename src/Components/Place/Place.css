@@ -1,0 +1,29 @@
+.place {
+    border: 1px solid darkgreen;
+    border-radius: 10px;
+    margin: 20px;
+    position: relative;
+    height: 450px;
+}
+.place img {
+    width: 100%;
+    border-radius: 10px;
+}
+.place h4,
+h5 {
+    margin-bottom: 1px;
+}
+.btn-select {
+    width: 100%;
+    border-radius: 10px;
+    height: 35px;
+    border: 0;
+    background-color: darkgreen;
+    color: white;
+    position: absolute;
+    bottom: 0;
+}
+.btn-select:hover {
+    background-color: green;
+    font-weight: 600;
+}
