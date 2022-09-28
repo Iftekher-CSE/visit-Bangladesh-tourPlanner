@@ -1,16 +1,15 @@
 import "./TourSummary.css";
 
 import React from "react";
+import Person from "../Person/Person";
 
 const TourSummary = () => {
     return (
         <div className="tour-summary">
-            <h2>Tour Summary</h2>
-            <h3>Selected Place:</h3>
-            <div>
-                <img src="" alt="" />
-            </div>
-            <h4>Total Cost:</h4>
+            <Person></Person>
+            <h2>Tour Plan</h2>
+            <h4>Selected Place: {}</h4>
+            <h4>Total Require: {} Days</h4>
         </div>
     );
 };

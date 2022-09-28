@@ -1,5 +1,6 @@
 .tour-summary {
-    background-color: rgb(228, 141, 141);
+    background-color: rgba(0, 128, 0, 0.148);
     position: sticky;
     top: 0px;
+    height: 100vh;
 }
