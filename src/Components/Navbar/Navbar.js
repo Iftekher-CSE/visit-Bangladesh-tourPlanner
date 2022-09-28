@@ -4,7 +4,7 @@ import "./Navbar.css";
 const Navbar = () => {
     return (
         <div className="nav-bar">
-            <img src="photo-bangladesh/brandLogo.png" alt="" />
+            <img src="brandLogo.png" alt="" />
             <h2>Visit Beautiful Places BD</h2>
         </div>
     );

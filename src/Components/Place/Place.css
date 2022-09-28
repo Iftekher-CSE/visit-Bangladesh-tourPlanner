@@ -3,25 +3,33 @@
     border-radius: 10px;
     margin: 20px;
     position: relative;
-    height: 450px;
+    height: 350px;
 }
 .place img {
     width: 100%;
     border-radius: 10px;
 }
-.place h4,
-h5 {
-    margin-bottom: 1px;
+.place-items {
+    padding: 0 10px;
 }
+
+h2,
+h4,
+p {
+    margin: 10px 0;
+}
+
 .btn-select {
     width: 100%;
     border-radius: 10px;
-    height: 35px;
+    height: 40px;
     border: 0;
     background-color: darkgreen;
     color: white;
     position: absolute;
     bottom: 0;
+    font-size: 16px;
+    font-weight: 500;
 }
 .btn-select:hover {
     background-color: green;

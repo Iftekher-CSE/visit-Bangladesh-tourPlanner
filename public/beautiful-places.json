@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Old Dhaka",
+        "id": "pvod01",
+        "distance": "5 km",
+        "visitDuration": 1,
+        "photo": "https://i.ibb.co/QQY2zH2/Old-Dhaka.webp"
+    },
+    {
+        "name": "Bagerhat",
+        "id": "pvbh02",
+        "distance": "400 km",
+        "visitDuration": 4,
+        "photo": "https://i.ibb.co/9sWh7PP/bagerhat.webp"
+    },
+    {
+        "name": "Bandarban",
+        "id": "pvbb03",
+        "distance": "450 km",
+        "visitDuration": 6,
+        "photo": "https://i.ibb.co/QFfnLBz/bandarban.webp"
+    },
+    {
+        "name": "Barisal",
+        "id": "pvbl04",
+        "distance": "250 km",
+        "visitDuration": 4,
+        "photo": "https://i.ibb.co/ZctwxqK/barisal.webp"
+    },
+    {
+        "name": "Chittagong",
+        "id": "pvct05",
+        "distance": "400 km",
+        "visitDuration": 3,
+        "photo": "https://i.ibb.co/vXLSyyr/chittagong.webp"
+    },
+    {
+        "name": "Coxs Bazar",
+        "id": "pvcb06",
+        "distance": "600 km",
+        "visitDuration": 4,
+        "photo": "https://i.ibb.co/P45mHFZ/coxs-bazar.webp"
+    },
+    {
+        "name": "Kuakata",
+        "id": "pvku07",
+        "distance": "350 km",
+        "visitDuration": 4,
+        "photo": "https://i.ibb.co/Srn3cJg/kuakata.webp"
+    },
+    {
+        "name": "Rangamati",
+        "id": "pvrm08",
+        "distance": "400 km",
+        "visitDuration": 6,
+        "photo": "https://i.ibb.co/dgGVRJw/rangamati.webp"
+    },
+    {
+        "name": "Sonagraon",
+        "id": "pvsg09",
+        "distance": "50 km",
+        "visitDuration": 1,
+        "photo": "https://i.ibb.co/kJqV1HV/sonargaon.webp"
+    },
+    {
+        "name": "Srimongal",
+        "id": "pvsm10",
+        "distance": "250 km",
+        "visitDuration": 4,
+        "photo": "https://i.ibb.co/7g4L9Wt/srimangal.webp"
+    },
+    {
+        "name": "Sent Martin",
+        "id": "pvsm11",
+        "distance": "700 km",
+        "visitDuration": 7,
+        "photo": "https://i.ibb.co/XyFZYZL/st-martin.webp"
+    },
+    {
+        "name": "Sylhet",
+        "id": "pvst12",
+        "distance": "350 km",
+        "visitDuration": 5,
+        "photo": "https://i.ibb.co/tDNxWS7/sylhet.webp"
+    }
+]
