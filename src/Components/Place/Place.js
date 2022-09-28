@@ -2,7 +2,7 @@ import "./Place.css";
 
 import React from "react";
 
-const Place = ({ place }) => {
+const Place = ({ place, btnOnClickHandler }) => {
     const { name, distance, visitDuration, photo } = place;
 
     return (
@@ -16,7 +16,12 @@ const Place = ({ place }) => {
                     days.
                 </p>
             </div>
-            <button className="btn-select">Visit This Place</button>
+            <button
+                onClick={() => btnOnClickHandler(place.visitDuration)}
+                className="btn-select"
+            >
+                Visit This Place
+            </button>
         </div>
     );
 };
