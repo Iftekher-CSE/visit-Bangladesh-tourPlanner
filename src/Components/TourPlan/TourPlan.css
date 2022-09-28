@@ -7,4 +7,8 @@ h3 {
     position: relative;
 }
 
-@media;
+@media only screen and (max-width: 767px) {
+    .tour-plan {
+        grid-template-columns: 1fr;
+    }
+}
