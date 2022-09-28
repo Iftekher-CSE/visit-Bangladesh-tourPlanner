@@ -4,6 +4,12 @@
     top: 0px;
     height: 100vh;
 }
+.tour-summary h4 {
+    background-color: rgba(0, 128, 0, 0.127);
+    border-radius: 10px;
+    height: 25px;
+    padding: 5px 20px;
+}
 .btn-div {
     display: flex;
     align-items: center;
