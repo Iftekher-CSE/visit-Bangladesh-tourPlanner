@@ -12,6 +12,6 @@
     {
         "question": "What are the different usage of useEffect?",
         "id": "q03",
-        "answer": "What are the different usage of useEffect hook in React? answer"
+        "answer": "useEffect can be used in 6 different purpose. 1. Fetch API data. 2. Validating input field every time the input changes. 3.Live filtering  an array 'on the fly' by typing letters into an input element. 4. Trigger animation when array value get changes 5. Update paragraph list on fetched API data update 6. Updating fetched API data to get BTC updated price."
     }
 ]
