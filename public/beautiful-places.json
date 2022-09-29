@@ -1,31 +1,10 @@
 [
     {
-        "name": "Old Dhaka",
-        "id": "pvod01",
-        "distance": "5 km",
-        "visitDuration": 1,
-        "photo": "https://i.ibb.co/QQY2zH2/Old-Dhaka.webp"
-    },
-    {
-        "name": "Bagerhat",
-        "id": "pvbh02",
-        "distance": "400 km",
-        "visitDuration": 4,
-        "photo": "https://i.ibb.co/9sWh7PP/bagerhat.webp"
-    },
-    {
         "name": "Bandarban",
         "id": "pvbb03",
         "distance": "450 km",
         "visitDuration": 6,
         "photo": "https://i.ibb.co/QFfnLBz/bandarban.webp"
-    },
-    {
-        "name": "Barisal",
-        "id": "pvbl04",
-        "distance": "250 km",
-        "visitDuration": 4,
-        "photo": "https://i.ibb.co/ZctwxqK/barisal.webp"
     },
     {
         "name": "Chittagong",

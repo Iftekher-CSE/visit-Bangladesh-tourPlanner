@@ -1,0 +1,17 @@
+[
+    {
+        "question": "How does React works?",
+        "id": "q01",
+        "answer": "How does React works? answer"
+    },
+    {
+        "question": "What is the difference between state and props?",
+        "id": "q02",
+        "answer": "What is the difference between state and props? answer"
+    },
+    {
+        "question": "What are the different usage of useEffect hook in React?",
+        "id": "q03",
+        "answer": "What are the different usage of useEffect hook in React? answer"
+    }
+]

@@ -19,7 +19,7 @@ const TourSummary = ({ visitDays }) => {
         setBreakDays(getBreakFromLS);
     }, []);
 
-    const notify = () => toast("Get Started for Tour!");
+    const notify = () => toast(`Get Started for ${visitDays} days Tour!`);
 
     return (
         <div className="tour-summary">

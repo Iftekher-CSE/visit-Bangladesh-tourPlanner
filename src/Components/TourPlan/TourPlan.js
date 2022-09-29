@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import Navbar from "../Navbar/Navbar";
 import Places from "../Places/Places";
+import QuestionAnswer from "../QuestionAnswer/QuestionAnswer";
 import TourSummary from "../TourSummary/TourSummary";
 import "./TourPlan.css";
 
@@ -18,6 +19,7 @@ const TourPlan = () => {
                     <Navbar></Navbar>
                     <h3>Select Place and Make Tour Plan</h3>
                     <Places btnOnClickHandler={btnOnClickHandler}></Places>
+                    <QuestionAnswer></QuestionAnswer>
                 </div>
                 <div className="tour-summary">
                     <TourSummary visitDays={visitDays}></TourSummary>
