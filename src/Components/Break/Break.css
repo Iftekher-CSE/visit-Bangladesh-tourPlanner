@@ -10,7 +10,7 @@
 .break button {
     display: inline;
     margin: 10px 2px;
-    padding: 3px 5px;
+    padding: 3px 3px;
 }
 
 .break button:hover {
