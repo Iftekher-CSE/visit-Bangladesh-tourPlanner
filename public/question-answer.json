@@ -1,8 +1,8 @@
 [
     {
-        "question": "How does React works?",
+        "question": "How does ReactJS works?",
         "id": "q01",
-        "answer": "How does React works? answer"
+        "answer": "ReactJS creates different Elements by using JSX. JSX is JS syntax extension embed with HTML codes. Elements creates a copy of actual DOM called as Virtual-DOM. If any data changes React immediately creates Virtual-DOM instead of changing actual DOM. When a new Virtual-DOM is created it find the difference between previous Virtual-DOM and new Virtual-DOM by using Diff-algorithm. And finally ReactJS update that specific part in the actual DOM."
     },
     {
         "question": "What is the difference between state and props?",
@@ -10,7 +10,7 @@
         "answer": "What is the difference between state and props? answer"
     },
     {
-        "question": "What are the different usage of useEffect hook in React?",
+        "question": "What are the different usage of useEffect hook in ReactJS?",
         "id": "q03",
         "answer": "What are the different usage of useEffect hook in React? answer"
     }
